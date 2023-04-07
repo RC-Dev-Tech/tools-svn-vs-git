@@ -1,4 +1,4 @@
-# ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) 淺談SVN跟Git有何不同
+# ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) 淺談SVN跟GIT有何不同
 
 <br>
 
@@ -30,7 +30,7 @@ SVN的管理核心是將所有的版本放在一個服務器上集中管理。<b
 <br>
 GUI: [TortoiseSVN](https://tortoisesvn.net/index.zh.html)
 
-<font color="#4169E1">簡易流程示意:</font>
+<font color="#4169E1">簡易流程示意:</font><br>
 ![](https://drive.google.com/uc?id=1CN-MK3d4LO9QA3mTSwbprtYzbKYNFb6W)
 
 <font color="#4169E1">優點:</font>
@@ -58,7 +58,7 @@ Git的管理一樣是有一個專門放置代碼的共用服務器，<br>
 
 GUI: [SourceTree](https://www.sourcetreeapp.com/)
 
-<font color="#4169E1">簡易流程示意:</font>
+<font color="#4169E1">簡易流程示意:</font><br>
 ![](https://drive.google.com/uc?id=1sxiKtxiy05hBR1sYnPXy8k465HxkVZl2)
 
 <font color="#4169E1">優點:</font>
