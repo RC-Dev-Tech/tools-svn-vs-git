@@ -1,6 +1,6 @@
 # ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) 淺談SVN跟GIT有何不同
 
-<br>
+---
 
 <!--ts-->
 ## 目錄
@@ -13,7 +13,6 @@
 <!--te-->
 
 ---
-<br>
 
 ## 簡介.
 想當初使用SVN來做為主要版控工具多年，<br>
@@ -21,7 +20,6 @@
 今天就來淺談一下這兩者的差異.
 
 ---
-<br>
 
 ## SVN
 SVN的管理核心是將所有的版本放在一個服務器上集中管理。<br>
@@ -48,7 +46,6 @@ GUI: [TortoiseSVN](https://tortoisesvn.net/index.zh.html)
 - 直覺、易懂、適合有檔案管理需求的人使用
 
 ---
-<br>
 
 ## GIT
 Git的管理一樣是有一個專門放置代碼的共用服務器，<br>
@@ -77,7 +74,6 @@ GUI: [SourceTree](https://www.sourcetreeapp.com/)
 - 輕巧、敏捷、很適合拿來做多人模組開發
 
 ---
-<br>
 
 ## SVN和Git的命令比較表
 | 操作               | SVN          | Git          |
@@ -102,16 +98,19 @@ GUI: [SourceTree](https://www.sourcetreeapp.com/)
 | 忽視檔案清單       | .svnignore   | .gitignore   |
 
 ---
-<br>
 
 ## 參考資料
 * [SVN和Git介绍,区别,优缺点,适用范围总结](https://blog.csdn.net/mine_song/article/details/70770467) <br>
 * [連猴子都能懂的Git入門指南](https://backlog.com/git-tutorial/tw/) <br>
+
 ---
+
 <!--ts-->
 #### [目錄 ↩](#目錄)
 <!--te-->
+
 ---
+
 ## 備註：
 
 [^1]: SVN的 commit 是會直接將修改的內容上傳到遠端的數據庫上．
